@@ -1,0 +1,57 @@
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+@import url("components/tabs.css");
+@import url("components/items.css");
+
+.content1 {
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 60;
+	margin-bottom: 60px;
+}
+.content1 h1 {
+	font-family: 'Raleway', sans-serif;
+	color: #3DBE99;
+	font-size: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.content1 h2 {
+	font-family: 'Raleway', sans-serif;
+	color: #585858;
+	font-size: 14px;
+	text-align: center;
+}
+.content1 p {
+	font-family: 'Raleway', sans-serif;
+	color: #585858;
+	font-size: 14px;
+	font-weight: lighter;
+}
+.content1 a {
+	color: #3DBE99;
+}
+.content1 a:hover {
+	color: #3DBE99;
+}
+
+#footer {
+	background: #585858;
+	padding: 20px;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	color: #EDF9F5;
+}
+#footer h1 {
+	font-size: 20px;
+	color: #EDF9F5;
+}
+#footer a {
+  	color: #EDF9F5;
+}
+#footer a:hover {
+  	color: #EDF9F5;
+  	opacity: .5;
+}

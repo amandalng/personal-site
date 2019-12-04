@@ -1,0 +1,45 @@
+.card-movie {
+	height: 175px;
+	color: #EDF9F5;
+	background: linear-gradient(135deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,.3) 50%), url("https://www.tolerance.org/sites/default/files/styles/hero_images_non_homepage_xs/public/2019-08/TT-When-They-See-Us-1800x1080.png?h=4f4378cb&itok=rtSie6GZ");
+	background-size: cover;
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	margin: 20px;
+}
+.card-music {
+	height: 175px;
+	color: #EDF9F5;
+	background: linear-gradient(135deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,.3) 50%), url("https://www.comparetheticketprice.com/assets/images/events_images/6f5ff35f-9efe-424c-9c8d-9090e5e1e141_264841_TABLET_LANDSCAPE_LARGE_16_9.jpg");
+	background-size: cover;
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	margin: 20px;
+}
+.card-book {
+	height: 175px;
+	color: #EDF9F5;
+	background: linear-gradient(135deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,.3) 50%), url("https://hardygroupintl.com/blog/wp-content/uploads/2017/06/when-breath-becomes-air_2017_article-hero_1200x564_v1-1200x564.jpg");
+	background-size: cover;
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	margin: 20px;
+	margin-bottom: 100px;
+}
+.card-category {
+	position: absolute;
+	top: 10px;
+	left: 12px;
+	font-size: 12px;
+}
+.card-description {
+	position: absolute;
+	bottom: 10px;
+	left: 12px;
+	font-size: 18px;
+}
+.card-image {
+	position: absolute;
+	top: 10px;
+	right: 12px;
+}

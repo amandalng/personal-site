@@ -1,0 +1,23 @@
+.btn-teal {
+	color: #3DBE99;
+	border: 1px solid #3DBE99;
+	border-radius: 50px;
+	padding: 10px 20px;
+}
+.btn-teal a:hover {
+	background: #EDF9F5;
+	color: #3DBE99;
+}
+.btn-white {
+	font-size: 14px;
+	background: #585858;
+	color: #EDF9F5;
+	border: 1px solid #EDF9F5;
+	border-radius: 50px;
+	padding: 10px 20px;
+	;
+}
+.btn-white a:hover {
+	color: #83D5BE;
+	background: #EDF9F5;
+}

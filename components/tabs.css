@@ -1,0 +1,26 @@
+.tabs {
+	background: white;
+	color: #585858;
+	padding: 5px 5px 0 5px;
+	display: flex;
+}
+.tabs-item h3 {
+	font-family: 'Raleway', sans-serif;
+	color: #585858;
+	font-size: 14px;
+}
+.tabs-item {
+	flex: 1 0 auto;
+	background: #EDF9F5;
+	text-align: center;
+}
+.tabs-item:hover {
+	color: #EDF9F5;
+	background: #83D5BE;
+}
+.tabs-item:first-child {
+	border-radius: 10px 0 0 0;
+}
+.tabs-item:last-child {
+	border-radius: 0 10px 0 0;
+}
