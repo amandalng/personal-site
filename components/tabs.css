@@ -1,9 +1,8 @@
 .tabs {
-	background: #585858;
+	background: white;
 	color: #585858;
 	display: flex;
 	padding: 5px 5px 0 5px;
-	position: fixed;
 }
 .tabs-item h3 {
 	font-family: 'Raleway', sans-serif;
