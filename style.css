@@ -104,7 +104,7 @@ body a:hover {
 }
 
 .e {
-  	background: linear-gradient(135deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,.3) 80%), url(images/berkeley.jpg);
+  	background: linear-gradient(135deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,.3) 80%), url(images/berkeley.JPG);
   	background-size: cover;
    	background-position: center;
     display: flex;
